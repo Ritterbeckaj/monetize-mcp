@@ -1,0 +1,30 @@
+{
+  "name": "monetize-mcp",
+  "version": "1.0.0",
+  "description": "Monetization MCP \u2014 free, local tools to price, package, launch and run passive income from digital products (incl. your own MCPs).",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "monetize-mcp": "index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ritterbeckaj/monetize-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "monetization",
+    "pricing",
+    "digital-products",
+    "passive-income",
+    "indie-hacker",
+    "make-money-online",
+    "mcp-server",
+    "business-tools"
+  ]
+}
